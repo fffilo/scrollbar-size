@@ -1,0 +1,20 @@
+{
+  "name": "scrollbar-size",
+  "title": "Scrollbar Size",
+  "description": "Add scrollbarSize readonly property to window object",
+  "version": "0.1.0",
+  "main": "src/scrollbar-size.js",
+  "homepage": "https://github.com/fffilo/scrollbar-size",
+  "authors": [
+    "Franjo Filo <fffilo666@gmail.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fffilo/scrollbar-size.git"
+  },
+  "keywords": [
+    "javascript",
+    "scrollbar",
+    "size"
+  ]
+}
